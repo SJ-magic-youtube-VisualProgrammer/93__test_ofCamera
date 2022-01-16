@@ -1,0 +1,43 @@
+/************************************************************
+oF : officical
+************************************************************/
+■ofEasyCam
+	https://openframeworks.cc/documentation/3d/ofEasyCam/
+
+■ofCamera
+	http://openframeworks.jp/documentation/3d/ofCamera.html
+
+■ofNode
+	https://openframeworks.cc/documentation/3d/ofNode/
+
+
+■of3dPrimitive
+	https://openframeworks.cc/documentation/3d/of3dPrimitive/
+	
+■ofSpherePrimitive
+	https://openframeworks.cc/documentation/3d/ofSpherePrimitive/
+	
+■ofBoxPrimitive
+	https://openframeworks.cc/documentation/3d/ofBoxPrimitive/
+
+/************************************************************
+************************************************************/
+■カメラ ofCamera position ｜3Dプログラミング整理
+	https://studio23c.hatenadiary.jp/entry/%3Fp%3D699
+
+■カメラ ofCamera 注視点 ｜3Dプログラミング整理
+	https://studio23c.hatenadiary.jp/entry/%3Fp%3D709
+
+■ofCamera() basics help
+	https://forum.openframeworks.cc/t/ofcamera-basics-help/21739
+
+■Introducing OpenGL for OF
+	https://openframeworks.cc/ofBook/chapters/openGL.html#cameras
+	
+	search "Cameras"
+
+■Media Art II 2013 第7回 : openFrameworks 3Dグラフィクス、OpenGL
+	https://www.slideshare.net/tado/media-art-ii-2013
+	
+	yoppa
+
